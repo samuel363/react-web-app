@@ -1,0 +1,27 @@
+.title-tooltip {
+  font-size: 1.2rem;
+}
+
+.title-header {
+  font: {
+    size: 1.4rem;
+    weight: bold;
+  }
+}
+
+.title-table {
+  font: {
+    size: 2.5rem;
+    weight: bold;
+  }
+}
+.logout-btn {
+  @include button;
+  position: absolute;
+  top: 0;
+  right: 20px;
+}
+
+.MuiTableCell-root{
+  text-align: center !important;
+}

@@ -1,0 +1,30 @@
+{
+
+  "main.title": "WebApp Tuten",
+
+  "login": "Iniciar Sesión",
+
+  "email": "Correo Electrónico",
+  "password": "Contraseña",
+
+  "EmailInvalid": "Correo Electronico no valido",
+
+  "error.login": "Ha ocurrido un error iniciando sesion, por favor intentelo nuevamente",
+  "error.bookins": "Ha ocurrido un error consultando las reservaciones",
+
+  "bookingId" : "BookingId",
+  "client": "Cliente",
+  "bookingTime" : "Fecha de Creación",
+  "streetAddress": "Dirección",
+  "bookingPrice": "Precio",
+
+  "table.title": "Lista de Clientes",
+  "table.nomatch": "No existen resultados para su busqueda",
+  "table.search": "Buscar",
+  "table.filters": "Filtrar",
+  "table.filters.title": "Filtros",
+  "table.filters.reset": "Limpiar",
+
+  "logout": "Cerrar Sesión"
+
+}

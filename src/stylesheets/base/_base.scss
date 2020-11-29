@@ -1,0 +1,17 @@
+html {
+  box-sizing: border-box;
+}
+html, body {
+  color: $font-color;
+  //background: $background;
+  font: {
+    family: $text-font-stack;
+    size: 62.5% !important;
+  };
+}
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
